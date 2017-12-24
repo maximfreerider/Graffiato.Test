@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "658700675330",
+    "firebase_url": "https://graffiato-86f0f.firebaseio.com",
+    "project_id": "graffiato-86f0f",
+    "storage_bucket": "graffiato-86f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658700675330:android:0279b15eaa732a0f",
+        "android_client_info": {
+          "package_name": "com.google.elbrus.graffiato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658700675330-dkajnidogr64vpaft4if31bopg701h6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.elbrus.graffiato",
+            "certificate_hash": "77aba8d4f640cb146dc51c4f4844841319c581c6"
+          }
+        },
+        {
+          "client_id": "658700675330-sco6mdl83rigea3hrmom2s5b8sie9ji2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.elbrus.graffiato",
+            "certificate_hash": "7ac45ee3c13b5c97e930c1ad8c1d94488aadb2a0"
+          }
+        },
+        {
+          "client_id": "658700675330-lasdmereim5mpt47pfp1j8faoa9o08v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolwFPk2wHhTbTGP8BD9SPEpS_XkACLCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658700675330-lasdmereim5mpt47pfp1j8faoa9o08v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658700675330:android:988ff5e23cd25dc3",
+        "android_client_info": {
+          "package_name": "com.example.user.stepan.graffiato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658700675330-fkm4ninogstam50mkd9smfeg8ike74a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.stepan.graffiato",
+            "certificate_hash": "a96ae5989fc5d129eaac168f6807d7802948b354"
+          }
+        },
+        {
+          "client_id": "658700675330-lasdmereim5mpt47pfp1j8faoa9o08v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolwFPk2wHhTbTGP8BD9SPEpS_XkACLCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658700675330-lasdmereim5mpt47pfp1j8faoa9o08v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
